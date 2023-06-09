@@ -8,7 +8,9 @@ In this project, I built a deep neural network that functions as part of an end-
 
 
 
-<img width="451" alt="model1" src="https://github.com/hamidghasemi69/NLP-Machine-Translation/assets/22797186/1a6ae5b6-773a-463a-9607-24fa51a79e48">
+<img width="473" alt="model1 (1)" src="https://github.com/hamidghasemi69/NLP-Machine-Translation/assets/22797186/235717b5-42eb-4663-8e84-f561294bc0ba">
+
+
 
 
 
