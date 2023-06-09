@@ -6,10 +6,14 @@ Machine translation is a popular topic in research with new papers coming out ev
 
 In this project, I built a deep neural network that functions as part of an end-to-end machine translation pipeline. This pipeline accepts English text as input and returns the French translation.
 
+
+
 <img width="451" alt="model1" src="https://github.com/hamidghasemi69/NLP-Machine-Translation/assets/22797186/1a6ae5b6-773a-463a-9607-24fa51a79e48">
 
 
+
 <img width="485" alt="model2" src="https://github.com/hamidghasemi69/NLP-Machine-Translation/assets/22797186/76426519-f3a3-42a1-8b5c-a24233c7c5c4">
+
 
 
 
