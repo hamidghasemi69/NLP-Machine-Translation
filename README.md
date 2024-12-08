@@ -2,9 +2,9 @@
 Performing machine translation using tools in natural language processing
 
 # Project: Machine Translation
-Machine translation is a popular topic in research with new papers coming out every year. Over the years of research, different methods were created, like rule-based, statistical, and example-based machine translation. With all this effort, it’s still an unsolved problem. However, neural networks have made a large leap forward in machine translation.
+Machine translation is a widely researched field, with new papers being published each year. Over the years, various methods have been developed, including rule-based, statistical, and example-based machine translation approaches. Despite all the research and effort, it remains an unsolved problem. However, recent advancements in neural networks have significantly advanced the field of machine translation.
 
-In this project, I built a deep neural network that functions as part of an end-to-end machine translation pipeline. This pipeline accepts English text as input and returns the French translation.
+In this project, I built a deep neural network that serves as part of an end-to-end machine translation pipeline. This pipeline takes English text as input and returns the corresponding French translation.
 
 
 
