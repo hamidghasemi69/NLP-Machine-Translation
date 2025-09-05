@@ -24,16 +24,6 @@ This project demonstrates the implementation of a neural machine translation (NM
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following libraries installed:
-
-`pip install tensorflow==1.15 keras==2.3.1 numpy`
-
----
-
 ## Running the Notebook
 
 1. Clone the repository:
