@@ -73,7 +73,7 @@ Acknowledgements
 
 ## Contact & Contributions
 
-- `Author`: Hamid Ghasemi
+- Author: `Hamid Ghasemi`
 
 - Contributions are welcome! Please submit a pull request or raise an issue if you find a bug or have suggestions for improvement.
 
