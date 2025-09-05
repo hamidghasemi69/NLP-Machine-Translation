@@ -55,6 +55,19 @@ Ensure you have the following libraries installed:
 
 The trained model demonstrates the ability to translate English sentences into French, achieving satisfactory accuracy on the validation set.
 
+<img width="473" alt="model1 (1)" src="https://github.com/hamidghasemi69/NLP-Machine-Translation/assets/22797186/235717b5-42eb-4663-8e84-f561294bc0ba">
+
+
+
+
+
+<img width="485" alt="model2" src="https://github.com/hamidghasemi69/NLP-Machine-Translation/assets/22797186/76426519-f3a3-42a1-8b5c-a24233c7c5c4">
+
+
+
+
+<img width="486" alt="model3" src="https://github.com/hamidghasemi69/NLP-Machine-Translation/assets/22797186/078a83da-74b1-4270-8e7f-bfd75cf007ef">
+
 
 ---
 
