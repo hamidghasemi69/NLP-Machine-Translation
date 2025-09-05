@@ -8,19 +8,19 @@ This project demonstrates the implementation of a neural machine translation (NM
 
 ## Project Overview
 
-- **Objective**: Develop a neural machine translation system to translate English sentences into French.
-- **Dataset**: Utilizes the English-French sentence pairs dataset.
-- **Framework**: Built using TensorFlow 1.x and Keras 2.x.
-- **Model**: Implements a sequence-to-sequence model with attention mechanism.
+- **`Objective`**: Develop a neural machine translation system to translate English sentences into French.
+- **`Dataset`**: Utilizes the English-French sentence pairs dataset.
+- **`Framework`**: Built using TensorFlow `1.x` and `Keras 2.x`.
+- **`Model`**: Implements a sequence-to-sequence model with attention mechanism.
 
 ---
 
 ## Repository Structure
 
-- **machine_translation.ipynb** — Jupyter notebook containing the complete workflow for building and training the NMT model.
-- **helper.py** — Utility functions for data preprocessing and model evaluation.
-- **project_tests.py** — Unit tests for evaluating the model's performance.
-- **README.md** — This file.
+- **`machine_translation.ipynb`** — Jupyter notebook containing the complete workflow for building and training the NMT model.
+- **`helper.py`** — Utility functions for data preprocessing and model evaluation.
+- **`project_tests.py`** — Unit tests for evaluating the model's performance.
+- **`README.md`** — This file.
 
 ---
 
