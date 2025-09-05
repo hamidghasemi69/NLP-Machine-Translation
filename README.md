@@ -8,6 +8,7 @@ In this project, I built a deep neural network that serves as part of an end-to-
 
 
 
+
 <img width="473" alt="model1 (1)" src="https://github.com/hamidghasemi69/NLP-Machine-Translation/assets/22797186/235717b5-42eb-4663-8e84-f561294bc0ba">
 
 
